@@ -49,9 +49,6 @@ public class CollectionMapLesson21 {
         System.out.println(map2.get(2));
 
 
-
-
-
     }
 
 }
