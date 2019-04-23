@@ -24,6 +24,16 @@ public class MethodsLessons22 {
         sayHello(name);
 
         showSumToPerson (name, a, b, sum);
+        System.out.println();
+        boolean result = (showSum(10, 11, 12));
+        System.out.println(result);
+
+        System.out.println();
+        int result1
+        result1 = getSum(1, 10);
+        System.out.println(result1);
+        System.out.println();
+        int result2 = getSum(1, 5, 25);
 
     }
 
@@ -35,10 +45,18 @@ public class MethodsLessons22 {
     }
 
 
-    static void showSum (int x, int y, int z) {
+    static int getSum(int x, int y, int z) {
+        int sum;
+        sum = x + y + z;
+        return sum;
+    }
+
+
+    static boolean showSum (int x, int y, int z) {
         int sum;
         sum =x+y+z;
         System.out.println("Sum is " + sum);
+        return true;
     }
 
 
@@ -61,9 +79,6 @@ public class MethodsLessons22 {
         showSum(a, b, c);
         System.out.println("End of Program");
     }
-
-
-
 
 
 

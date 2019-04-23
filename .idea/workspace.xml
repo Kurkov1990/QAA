@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="808c9fca-ba3e-47c8-8b90-279499c06bf1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main-instrumented/my_tests/CollectionMapLesson21.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main-instrumented/my_tests/CollectionMapLesson21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/my_tests/ArrayLesson13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/my_tests/CollectionMapLesson21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/my_tests/CollectionSetLesson20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/my_tests/CollictionListLesson18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/my_tests/CyclesLesson17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/my_tests/LogicOperatorsLesson14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/my_tests/MethodsLessons22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/my_tests/MethodsLessons22.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -56,11 +71,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/my_tests/CollectionMapLesson21.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="456">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/my_tests/MethodsLessons22.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -121,13 +145,7 @@
         <option value="$PROJECT_DIR$/src/main/java/my_tests/CollictionListLesson18.java" />
         <option value="$PROJECT_DIR$/src/main/java/my_tests/CollectionSetLesson20.java" />
         <option value="$PROJECT_DIR$/src/main/java/my_tests/CollectionMapLesson21.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/my_tests/MethodsLessons22.java" />
       </list>
     </option>
   </component>
@@ -214,20 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CollectionMapLesson21">
-    <configuration name="CollectionMapLesson21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="my_tests.CollectionMapLesson21" />
-      <module name="Test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="my_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MethodsLessons22">
     <configuration name="CollectionSetLesson20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="my_tests.CollectionSetLesson20" />
       <module name="Test.main" />
@@ -280,6 +285,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MethodsLessons22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my_tests.MethodsLessons22" />
+      <module name="Test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Plugin" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -301,11 +319,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodsLessons22" />
         <item itemvalue="Application.LogicOperatorsLesson14" />
         <item itemvalue="Application.CyclesLesson17" />
         <item itemvalue="Application.CollictionListLesson18" />
         <item itemvalue="Application.CollectionSetLesson20" />
-        <item itemvalue="Application.CollectionMapLesson21" />
       </list>
     </recent_temporary>
   </component>
@@ -323,12 +341,27 @@
       <workItem from="1555265210585" duration="4088000" />
       <workItem from="1555532808712" duration="3988000" />
       <workItem from="1555960019621" duration="4484000" />
-      <workItem from="1556041340847" duration="2407000" />
+      <workItem from="1556041340847" duration="4860000" />
     </task>
+    <task id="LOCAL-00001" summary="+">
+      <created>1556043919631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556043919631</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Methods">
+      <created>1556045843609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556045843609</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16099000" />
+    <option name="totallyTimeSpent" value="18552000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -354,14 +387,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32900432" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" weight="0.32900432" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7979744" weight="0.39935064" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.79744136" visible="true" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
       <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49946696" weight="0.32900432" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49946696" visible="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946696" weight="0.32900432" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.20255864" side_tool="true" visible="true" weight="0.39935064" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32900432" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -380,6 +413,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="+" />
+    <MESSAGE value="Methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Methods" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Test$CollectionMapLesson21.ic" NAME="CollectionMapLesson21 Coverage Results" MODIFIED="1556041602076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -420,8 +458,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/my_tests/CollectionMapLesson21.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="456">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>
@@ -442,6 +480,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/my_tests/MethodsLessons22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
         </state>
       </provider>
     </entry>
