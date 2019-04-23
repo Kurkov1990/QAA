@@ -29,14 +29,17 @@ public class MethodsLessons22 {
         System.out.println(result);
 
         System.out.println();
-        int result1
+        int result1;
         result1 = getSum(1, 10);
         System.out.println(result1);
         System.out.println();
-        int result2 = getSum(1, 5, 25);
+       result1 = getSum(1, 5, 25);
+        System.out.println(result1);
+
+        sayHello ("name1", "name2");
+
 
     }
-
 
     static int getSum(int x, int y) {
         int sum;
@@ -69,6 +72,12 @@ public class MethodsLessons22 {
 
     static void sayHello (String name) {
         System.out.println("Hello " + name + "!");
+        System.out.println("Nice to meet you");
+    }
+
+    static void sayHello (String name1, String name2) {
+        System.out.println("Hello " + name1 + "!");
+        System.out.println("Hello " + name2 + "!");
         System.out.println("Nice to meet you");
     }
 

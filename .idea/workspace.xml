@@ -10,13 +10,6 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main-instrumented/my_tests/CollectionMapLesson21.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main-instrumented/my_tests/CollectionMapLesson21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/my_tests/ArrayLesson13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/my_tests/CollectionMapLesson21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/my_tests/CollectionSetLesson20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/my_tests/CollictionListLesson18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/my_tests/CyclesLesson17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/my_tests/LogicOperatorsLesson14.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/my_tests/MethodsLessons22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/my_tests/MethodsLessons22.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -83,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/my_tests/MethodsLessons22.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+            <state relative-caret-position="303">
+              <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -341,7 +334,7 @@
       <workItem from="1555265210585" duration="4088000" />
       <workItem from="1555532808712" duration="3988000" />
       <workItem from="1555960019621" duration="4484000" />
-      <workItem from="1556041340847" duration="4860000" />
+      <workItem from="1556041340847" duration="5481000" />
     </task>
     <task id="LOCAL-00001" summary="+">
       <created>1556043919631</created>
@@ -357,11 +350,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556045843609</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Methods2">
+      <created>1556046481062</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556046481062</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18552000" />
+    <option name="totallyTimeSpent" value="19173000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -417,7 +417,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="+" />
     <MESSAGE value="Methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Methods" />
+    <MESSAGE value="Methods2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Methods2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Test$CollectionMapLesson21.ic" NAME="CollectionMapLesson21 Coverage Results" MODIFIED="1556041602076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -485,8 +486,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/my_tests/MethodsLessons22.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+        <state relative-caret-position="303">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
         </state>
       </provider>
     </entry>
