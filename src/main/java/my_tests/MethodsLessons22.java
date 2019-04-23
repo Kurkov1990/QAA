@@ -38,6 +38,11 @@ public class MethodsLessons22 {
 
         sayHello ("name1", "name2");
 
+        int[] array = {1, 10, 12, 8};
+
+        int sum3 = getSum (array, "Jack");
+        System.out.println(sum3 + 100);
+
 
     }
 
@@ -51,6 +56,16 @@ public class MethodsLessons22 {
     static int getSum(int x, int y, int z) {
         int sum;
         sum = x + y + z;
+        return sum;
+    }
+
+    static int getSum (int[] array, String name) {
+        int sum = 0;
+        for (int i = 0; i < array.length; i++) {
+            sum += array[i];
+        }
+        System.out.println("Hi " + name);
+        System.out.println("Your sum is " + sum );
         return sum;
     }
 

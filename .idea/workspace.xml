@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="808c9fca-ba3e-47c8-8b90-279499c06bf1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/my_tests/ExceptionsLesson23.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
@@ -9,6 +10,7 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/my_tests/MethodsLessons22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/my_tests/MethodsLessons22.java" afterDir="false" />
     </list>
@@ -65,6 +67,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/my_tests/ArrayLesson13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/my_tests/CollectionMapLesson21.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
@@ -73,11 +84,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/my_tests/MethodsLessons22.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+            <state relative-caret-position="235">
+              <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/my_tests/ExceptionsLesson23.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -139,6 +159,8 @@
         <option value="$PROJECT_DIR$/src/main/java/my_tests/CollectionSetLesson20.java" />
         <option value="$PROJECT_DIR$/src/main/java/my_tests/CollectionMapLesson21.java" />
         <option value="$PROJECT_DIR$/src/main/java/my_tests/MethodsLessons22.java" />
+        <option value="$PROJECT_DIR$/src/main/java/my_tests/Exceptions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/my_tests/ExceptionsLesson23.java" />
       </list>
     </option>
   </component>
@@ -225,20 +247,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodsLessons22">
-    <configuration name="CollectionSetLesson20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="my_tests.CollectionSetLesson20" />
-      <module name="Test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="my_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ExceptionsLesson23">
     <configuration name="CollictionListLesson18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="my_tests.CollictionListLesson18" />
       <module name="Test.main" />
@@ -254,6 +263,19 @@
     </configuration>
     <configuration name="CyclesLesson17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="my_tests.CyclesLesson17" />
+      <module name="Test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionsLesson23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my_tests.ExceptionsLesson23" />
       <module name="Test.main" />
       <extension name="coverage">
         <pattern>
@@ -312,11 +334,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionsLesson23" />
         <item itemvalue="Application.MethodsLessons22" />
         <item itemvalue="Application.LogicOperatorsLesson14" />
         <item itemvalue="Application.CyclesLesson17" />
         <item itemvalue="Application.CollictionListLesson18" />
-        <item itemvalue="Application.CollectionSetLesson20" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +356,7 @@
       <workItem from="1555265210585" duration="4088000" />
       <workItem from="1555532808712" duration="3988000" />
       <workItem from="1555960019621" duration="4484000" />
-      <workItem from="1556041340847" duration="5481000" />
+      <workItem from="1556041340847" duration="7514000" />
     </task>
     <task id="LOCAL-00001" summary="+">
       <created>1556043919631</created>
@@ -357,11 +379,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556046481062</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Methods2">
+      <created>1556046982273</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556046982273</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19173000" />
+    <option name="totallyTimeSpent" value="21206000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -429,13 +458,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/my_tests/ArrayLesson13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/my_tests/LogicOperatorsLesson14.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
@@ -484,10 +506,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/my_tests/ArrayLesson13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/my_tests/MethodsLessons22.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+        <state relative-caret-position="235">
+          <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/my_tests/ExceptionsLesson23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
