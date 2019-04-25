@@ -20,7 +20,7 @@ public class CarLesson25 {
     }
 
 
-    final static int var = 10; // final is used for define constants
+    static int var = 10; // final is used for define constants
     static void method() {
         System.out.println ("Static method.");
     }
