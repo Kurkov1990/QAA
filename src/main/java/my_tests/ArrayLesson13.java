@@ -37,5 +37,6 @@ public class ArrayLesson13 {
         System.out.println();
         System.out.println(arr2.length);
         System.out.println(arr2[arr2.length-1]);
+
     }
 }
